@@ -28,6 +28,7 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 - Metrics: repeat purchase rate; monthly cohort retention (using customer_unique_id)
 - Decision: whether growth depends on acquisition or loyalty
 - Answer: to be completed (Day 6)
+- Note (Day 2): 99,441 customer_ids but only 96,096 customer_unique_ids, so some customers ordered more than once.
 
 ---
 
