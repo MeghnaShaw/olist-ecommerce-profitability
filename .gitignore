@@ -1,3 +1,4 @@
 data/
 olist.duckdb
+olist.duckdb.wal
 .ipynb_checkpoints/
