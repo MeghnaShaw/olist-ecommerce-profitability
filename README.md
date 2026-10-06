@@ -5,3 +5,14 @@
 - Source: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - Licence: CC BY-NC-SA 4.0
 - The raw CSV files are not included in this repo. Download them from Kaggle and place them in the `data/` folder.
+## Definitions
+- Revenue: sum of item price for orders with order_status = 'delivered' (excludes freight and cancelled orders).
+- Customer: identified by customer_unique_id, not customer_id.
+
+## Data checks (Day 3)
+- order_level has 99,441 rows, equal to the orders table, with one row per order.
+- item_level has 112,650 rows, equal to order_items.
+- Total item revenue matches the source in all three tables: 13,591,643.70.
+- Total freight matches the source: 2,251,909.54.
+- Orders and items are aggregated before joining to avoid double-counting (fan-out).
+- Some orders have no items (775), no review (768) or no delivery date (2,965). These are expected and are handled in later analysis.
