@@ -16,3 +16,6 @@
 - Total freight matches the source: 2,251,909.54.
 - Orders and items are aggregated before joining to avoid double-counting (fan-out).
 - Some orders have no items (775), no review (768) or no delivery date (2,965). These are expected and are handled in later analysis.
+## Method
+- Monthly analysis uses complete months only (Jan 2017 to Aug 2018). Late 2016 and the final months of 2018 are excluded because volumes are too small or cut off.
+   

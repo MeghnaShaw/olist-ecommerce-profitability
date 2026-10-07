@@ -13,7 +13,7 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q1. Is monthly revenue growing sustainably, and is the growth driven by more orders or higher order value?
 - Metrics: monthly revenue, order count, average order value, month-over-month growth (complete months only)
 - Decision: invest in customer acquisition or in raising basket size
-- Answer: to be completed (Day 4)
+- Answer: Between Jan 2017 and Aug 2018, monthly revenue grew from 111,798 to 838,577 and monthly orders from 750 to 6,351. Comparing the first 3 and last 3 complete months, orders rose 276.0% while average order value changed -4.3%, so growth came from more orders, not larger baskets. Year-over-year (Jan-Aug 2018 vs Jan-Aug 2017), revenue rose 141.1% and orders rose 139.9%. During Jan-Aug 2018 monthly revenue stayed between 826,437 and 977,545, so growth flattened. The peak month was Nov 2017 (987,765), likely a seasonal effect such as Black Friday.
 
 ### Q2. At which stage of the order lifecycle are orders lost, and what is the cancellation rate?
 - Metrics: share of orders reaching each stage (created, approved, shipped, delivered); cancellation rate
