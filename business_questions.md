@@ -37,7 +37,7 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q4. Which product categories carry the highest freight cost relative to item price, and how much revenue do they represent?
 - Metrics: freight as a share of item price by category; category revenue
 - Decision: which categories need shipping-cost, pricing or seller changes
-- Answer: to be completed (Day 8)
+- Answer: Across delivered orders, freight equals 16.63% of item price overall. Among the 52 categories with at least 100 delivered orders, the highest freight shares are christmas_supplies (36.52% of price, average item price 58.25), signaling_and_security (30.39% of price, average item price 108.2), electronics (29.46% of price, average item price 56.81). The three largest categories by revenue are health_beauty (9.33% of revenue, freight 14.51% of price), watches_gifts (8.82% of revenue, freight 8.42% of price), bed_bath_table (7.74% of revenue, freight 19.72% of price). 12 categories are both above-median in revenue and above the marketplace freight share; the largest by total freight are bed_bath_table (revenue 1,023,435, freight 19.72% of price), furniture_decor (revenue 711,928, freight 23.65% of price), sports_leisure (revenue 954,853, freight 17.11% of price). These categories are candidates for shipping-cost, pricing or seller changes.
 
 ---
 
