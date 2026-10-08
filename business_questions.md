@@ -27,7 +27,7 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q3. What share of customers place a second order, and how does retention differ across cohorts?
 - Metrics: repeat purchase rate; monthly cohort retention (using customer_unique_id)
 - Decision: whether growth depends on acquisition or loyalty
-- Answer: to be completed (Day 6)
+- Answer: Of 93,358 customers with a delivered order, 2,801 (3.0%) ordered more than once, with an average of 1.033 orders per customer. Averaged across the Jan 2017 to Aug 2018 cohorts, 0.48% of customers bought again one month after their first order, 0.26% after three months and 0.23% after six months. Repeat purchase is very low, so growth depends on acquiring new customers rather than on loyalty. Later cohorts have fewer months of history, so their retention can only be measured over a shorter period.
 - Note (Day 2): 99,441 customer_ids but only 96,096 customer_unique_ids, so some customers ordered more than once.
 
 ---

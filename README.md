@@ -19,4 +19,4 @@
 ## Method
 - Monthly analysis uses complete months only (Jan 2017 to Aug 2018). Late 2016 and the final months of 2018 are excluded because volumes are too small or cut off.
 - The order funnel uses order timestamps (created, approved, shipped, delivered) because Olist has no web clickstream. It covers all orders in the dataset.
-  
+- Customers are identified by customer_unique_id, not customer_id, because customer_id changes with every order. Cohort retention uses delivered orders and cohorts from Jan 2017 to Aug 2018, where a cohort is the month of a customer's first delivered order. Repeat orders placed in the same month as the first order count as month 0, not as retention.
