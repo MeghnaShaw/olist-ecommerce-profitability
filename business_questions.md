@@ -18,7 +18,7 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q2. At which stage of the order lifecycle are orders lost, and what is the cancellation rate?
 - Metrics: share of orders reaching each stage (created, approved, shipped, delivered); cancellation rate
 - Decision: where operations should focus to protect revenue
-- Answer: to be completed (Day 5)
+- Answer: Of 99,441 orders, 99.84% were approved, 98.21% were handed to the carrier and 97.02% reached the customer. The largest step-to-step drop is from Approved to Shipped (handed to carrier) (1.63% of orders lost at that step). 625 orders were cancelled (0.63%) and 609 were marked unavailable (0.61%). 97.02% of orders have the status delivered; the rest are cancelled, unavailable or still in progress when the data was collected.
 
 ---
 

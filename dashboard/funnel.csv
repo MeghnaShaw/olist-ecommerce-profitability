@@ -1,0 +1,5 @@
+step,stage,orders,pct_of_created,pct_of_previous
+1,Created,99441,100.0,
+2,Approved,99281,99.84,99.84
+3,Shipped (handed to carrier),97658,98.21,98.37
+4,Delivered to customer,96476,97.02,98.79
