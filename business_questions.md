@@ -46,12 +46,14 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q5. How often are orders delivered later than the estimated date, and in which regions is this worst?
 - Metrics: late delivery rate overall and by customer state; average days late
 - Decision: where to improve logistics or set more realistic delivery promises
-- Answer: to be completed (Day 9)
+- Answer: Of 96,470 delivered orders with a delivery date, 6,534 (6.77%) arrived after the estimated date, and late orders were on average 10.6 days late. Orders took 12.5 days on average against 24.4 days estimated. Among states with at least 100 delivered orders, the highest late rates are AL (21.41%), MA (17.43%), SE (15.22%); the lowest is AM (2.76%).
+
 
 ### Q6. How much does late delivery reduce review scores?
 - Metrics: average review score and share of 1-2 star reviews, late versus on-time orders
 - Decision: how much customer satisfaction is worth fixing through delivery
-- Answer: to be completed (Day 9)
+- Answer: Late orders average a review score of 2.27 against 4.29 for on-time orders, a gap of 2.02 points, and 62.36% of late orders have a 1-2 star review against 9.23% of on-time orders. Orders delivered 15+ days late average 1.73. This shows a strong association between lateness and low reviews; it does not prove that lateness alone causes them.
+
 
 ---
 

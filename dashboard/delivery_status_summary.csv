@@ -1,0 +1,3 @@
+delivery_status,orders,pct_of_orders,reviewed_orders,avg_review,low_review_pct,avg_delivery_days
+Late,6534,6.77,6381,2.27,62.36,33.9
+On time,89936,93.23,89443,4.29,9.23,10.9
