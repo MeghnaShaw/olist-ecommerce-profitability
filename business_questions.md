@@ -62,12 +62,14 @@ Business problem: Where is the marketplace losing revenue or customers, and whic
 ### Q7. How concentrated is revenue among sellers?
 - Metrics: revenue share of the top 10% of sellers; revenue share of the top 10 sellers
 - Decision: seller retention and dependency risk
-- Answer: to be completed (Day 10)
+- Answer: 2,970 sellers sold delivered items. The top 10 sellers account for 13.27% of revenue, the top 10% of sellers (297 sellers) for 67.11% and the top 20% for 82.29%. It takes 533 sellers (17.95% of all sellers) to reach 80% of revenue. Revenue is highly concentrated in a small group of sellers, so losing a few of them would noticeably hit revenue.
+
 
 ### Q8. Which sellers with meaningful volume have the worst late-delivery and low-review rates?
 - Metrics: per-seller late rate and 1-2 star rate (sellers with 30+ orders only)
 - Decision: seller quality policy: warnings, coaching or removal
-- Answer: to be completed (Day 10)
+- Answer: 627 sellers have at least 30 delivered orders and together produce 77.1% of revenue. The marketplace late rate is 6.77% and the low-review rate is 12.77%. The worst sellers by low-review rate are seller ID starting 1ca7077d (108 orders, 59.81% low reviews, 16.67% late), seller ID starting 2eb70248 (187 orders, 47.28% low reviews, 11.23% late), seller ID starting 972d0f9c (81 orders, 41.77% low reviews, 11.11% late). 25 sellers are flagged because their late rate is above the marketplace rate and their low-review rate is at least double it. They produce 2.03% of revenue, but their orders account for 4.9% of all late orders and 5.6% of all 1-2 star orders. These sellers are candidates for warnings, coaching or removal; rates for sellers with few orders are noisy.
+
 
 ---
 
