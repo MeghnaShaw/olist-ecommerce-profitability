@@ -1,0 +1,4 @@
+lever,assumption,effect_base,effect_low,effect_high,pct_of_revenue_base
+2. Raise repeat purchase,Repeat rate up 1.0 percentage point,140720.15,70360.07,281440.3,1.06
+3. Cut freight in high-freight categories,"Freight down 10% on 12 watch-list categories, elasticity 0.5",45460.87,22730.43,90921.73,0.34
+1. Reduce late deliveries,Late deliveries cut by 33%,1643.76,821.88,3287.51,0.01
