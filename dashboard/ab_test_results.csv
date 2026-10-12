@@ -1,0 +1,2 @@
+simulated,baseline_rate_pct,assumed_true_treatment_rate_pct,alpha,target_power,visitors_per_group,control_rate_pct,treatment_rate_pct,difference_pp,ci_low_pp,ci_high_pp,relative_lift_pct,z_stat,p_value,significant,power_in_2000_sims_pct,false_alarm_in_2000_sims_pct
+True,3.0,3.3000000000000003,0.05,0.8,53182,2.945,3.351,0.406,0.196,0.616,13.79,3.793,0.00015,True,79.0,5.5
